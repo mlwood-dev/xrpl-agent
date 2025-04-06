@@ -26,7 +26,7 @@ xrpl-mcp-service-node
 1. Clone the repository:
    ```
    git clone <repository-url>
-   cd xrpl-mcp-service-node
+   cd xrpl-agent
    ```
 
 2. Install the dependencies:
