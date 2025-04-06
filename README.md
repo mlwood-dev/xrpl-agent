@@ -71,7 +71,7 @@ The server will be running on `http://localhost:8000`.
   {
       "type": "account_info",
       "params": {
-          "account": "rsuUjfWxrACCAwGQDsNeZUhpzXf1n1NK5Z"
+          "account": "rfdhfdj.....K5Z"
       }
   }
   ```
